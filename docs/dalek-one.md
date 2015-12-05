@@ -2,3 +2,4 @@
  - Skaro
  - Timelords
  - Kill timelords
+ - Gold
